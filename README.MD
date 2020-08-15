@@ -4,15 +4,15 @@
 **Bold**, *Italic*, ~~crosstext~~
 
 ### Setup through CDN
-*list
-*list
-	*list2ndlevel1
-	*list2ndlevel2
+* list
+* list
+	* list2ndlevel1
+	* list2ndlevel2
 
 1. list
 1. list
-	1.list1
-	1.list2
+	1. list1
+	1. list2
 
 ### Setup throught NPM
 [Site Kovtunn's family](http://kovtunfamily.ru)
